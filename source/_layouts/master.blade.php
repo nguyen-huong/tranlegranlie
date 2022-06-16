@@ -40,7 +40,7 @@
             <small>
                 &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
             </small>
-            <p>Netlify template: Artisan Static</p>
+            <p>Netlify Theme: Artisan Static</p>
         </footer>
     </section>
 
