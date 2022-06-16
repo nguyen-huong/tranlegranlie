@@ -2,14 +2,14 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://tranle-granlie.netlify.app/',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Tranle Granlie',
+        'description' => 'Personal blog of Tranle Granlie.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => 'Tranle Granlie',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
